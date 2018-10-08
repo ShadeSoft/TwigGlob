@@ -1,0 +1,21 @@
+{
+    "name": "shadesoft/twig-glob",
+    "description": "Twig extension for usage of PHP's glob function.",
+    "keywords": ["twig", "glob", "php", "search", "directory", "match"],
+    "type": "package",
+    "license": "MIT",
+    "homepage": "https://github.com/ShadeSoft/TwigGlob",
+    "authors": [
+        {
+            "name": "Szabolcs Surányi",
+            "email": "szabolcs.suranyi@shadesoft.hu",
+            "homepage": "http://shadesoft.hu"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "ShadeSoft\\": "" }
+    },
+    "require": {
+        "twig/twig": "~1.0|~2.0"
+    }
+}
