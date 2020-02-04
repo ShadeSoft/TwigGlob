@@ -16,6 +16,6 @@
         "psr-4": { "ShadeSoft\\": "" }
     },
     "require": {
-        "twig/twig": "~1.0|~2.0"
+        "twig/twig": "^1|^2|^3"
     }
 }
